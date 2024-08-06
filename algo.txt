@@ -1,2 +1,3 @@
 Step 1. Decide Pizza to order. An all meat pizza with extra onions.
 Step 2. Attempt to call local pizza place but fail due to overwhelming anxiety.
+Step 3. Decide it's best to just order the pizza from door dash instead.
